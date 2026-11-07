@@ -43,7 +43,6 @@
 
 - 🌐 **Web App (Live):** [https://selfup.net/typing/](https://selfup.net/typing/)
 - 🏠 **Apps Hub:** [https://selfup.net/](https://selfup.net/) （公開Webツール一覧）
-- 📝 **Author's note:** [https://note.com/<あなたのnoteID>](https://note.com/<あなたのnoteID>)
 
 ---
 
